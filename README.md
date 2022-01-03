@@ -7,6 +7,7 @@ This repository also contains additional code snippets for:
 
 * downloading submissions from Reddit
 * downloading images from news websites
+* downloading images from search engine bing
 * image augmentation
 * sentiment analysis of Reddit submission titles
 
