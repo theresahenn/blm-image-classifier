@@ -5,6 +5,7 @@ You will need Python 3.x, a Tensorflow version of 2.6.0 or higher, and the libra
 
 This repository also contains additional code snippets for:
 
+* testing the classifier with BLM images from Reddit
 * downloading submissions from Reddit
 * downloading images from news websites
 * downloading images from search engine bing
